@@ -1,4 +1,4 @@
-# music-record-system
+# music-record-system using DSA
 1)	ABSTRACT
 The project titled MUSIC RECORD SYSTEM helps in maintaining record of different genre of music. It can help in storing, editing, deleting information of songs including the song name, artist details, year of release and the song rating.
  It performs operations for generating a user defined list of songs along with other information of the song like genre, rating, year of release and artist name. The information entered can be updated in case of any mistakes by the user. Any song data can be easily deleted by the user if a particular song is not required
